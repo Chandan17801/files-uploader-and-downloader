@@ -1,0 +1,6 @@
+add values of these variables in env file
+
+MONGO_URI=
+FILES_EXPIRY_IN_DAYS=
+JWT_SECRET=
+BACKEND_URL=
